@@ -1,4 +1,4 @@
-![alt text]([https://cdn.pixabay.com/photo/2022/06/20/14/20/space-7273891_1280.jpg](https://cdn.pixabay.com/photo/2022/06/20/14/20/space-7273891_1280.jpg) "My Background")
+![alt text](https://cdn.pixabay.com/photo/2022/06/20/14/20/space-7273891_1280.jpg "My Background")
 
 ## My favorite tools and technolo=ies ⚙️
 
