@@ -1,6 +1,6 @@
 ## My favorite tools and technologies ⚙️
 
-> Hello, My name is Ali and I am a Full Stack developer since 2000 with over multiple languages, frameworks, systems, and more. You may contact me at solidinnovator@gmail.com for inquiries. 
+> Hello, My name is Ali and I am a Full Stack developer with 19 years of experience with over multiple languages, frameworks, systems, and more. You may contact me at solidinnovator@gmail.com for inquiries. 
 
 
 >IOS (Apple System) / Windows / Linux 
