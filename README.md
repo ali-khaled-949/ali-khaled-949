@@ -3,7 +3,7 @@
 > Hello, My name is Ali and I am a Full Stack developer since 2000 with over multiple languages, frameworks, systems, and more. You may contact me at solidinnovator@gmail.com for inquiries. 
 
 
->Macbook / Windows / Linux 
+>IOS (Apple System) / Windows / Linux 
 <table>
   <tr>
     <td align="center" width="96">
