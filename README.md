@@ -126,6 +126,26 @@
 </table>
 
 
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,css,html,vscode,c" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ali-khaled-949">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-khaled-949&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-khaled-949&theme=tokyonight&layout=compact" 
+      alt="Ali's GitHub Top Languages" />
+  </a>
+</p>
+
+
+
+
+
 ### Tools & Interests
 [![](https://img.shields.io/badge/macOS-Big%20Sur-cd48a5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur)
 [![](https://img.shields.io/badge/Linux-Debian-a42050?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org)
