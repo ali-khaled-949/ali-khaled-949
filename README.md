@@ -134,6 +134,8 @@
   </a>
 </p>
 -->
+
+<center>
 <p align="center">
   <a href="https://github.com/ali-khaled-949">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-khaled-949&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
@@ -141,7 +143,7 @@
       alt="Ali's GitHub Top Languages" />
   </a>
 </p>
-
+</center>
 
 
 
