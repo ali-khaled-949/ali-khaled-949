@@ -150,7 +150,6 @@
 
 ### Tools & Interests
 [![](https://img.shields.io/badge/macOS-Big%20Sur-cd48a5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur)
-[![](https://img.shields.io/badge/Linux-Debian-a42050?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org)
 [![](https://img.shields.io/badge/IDE-WebStorm-089ef6?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm)
 [![](https://img.shields.io/badge/IDE-VSCode-1f9cf0?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com)
 
@@ -164,8 +163,6 @@
 
 [![](https://img.shields.io/badge/-Serverless-fd5750?style=flat-square&logo=serverless&logoColor=ffffff)](https://en.wikipedia.org/wiki/Serverless_computing)
 [![](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=ffffff)](https://vercel.com)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com)
-[![](https://img.shields.io/badge/-Kubernetes-3d6ede?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io)
 [![](https://img.shields.io/badge/-GitHub%20Actions-1989ee?style=flat-square&logo=github%20actions&logoColor=ffffff)](https://github.com/features/actions)
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
