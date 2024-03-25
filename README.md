@@ -126,14 +126,14 @@
 </table>
 
 
-<h2 align="center">Skills</h2>
+<!--<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,css,html,vscode,c" />
   </a>
 </p>
-
+-->
 <p align="center">
   <a href="https://github.com/ali-khaled-949">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-khaled-949&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" />
