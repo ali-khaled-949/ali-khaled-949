@@ -8,10 +8,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
@@ -121,9 +117,10 @@
         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
       <br>Docusaurus
     </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
     </td>
   </tr>
  <tr>
