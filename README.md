@@ -114,8 +114,8 @@
       <br>Celery
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="dart" />
+      <br>Swift
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
