@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="590" viewBox="0 0 1600 590">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101F"/>
+      <stop offset=".53" stop-color="#0C1530"/>
+      <stop offset="1" stop-color="#15123B"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#53E1FB"/>
+      <stop offset=".5" stop-color="#8FA0FF"/>
+      <stop offset="1" stop-color="#CE77FF"/>
+    </linearGradient>
+    <radialGradient id="aurora"><stop offset="0" stop-color="#7056E9" stop-opacity=".40"/><stop offset="1" stop-color="#7056E9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="aqua"><stop offset="0" stop-color="#2BD4EC" stop-opacity=".22"/><stop offset="1" stop-color="#2BD4EC" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#96ACDB" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="23"/></filter>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="180%"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#030713" flood-opacity=".72"/></filter>
+    <clipPath id="outer"><rect width="1600" height="590" rx="30"/></clipPath>
+  </defs>
+  <g clip-path="url(#outer)">
+    <rect width="1600" height="590" fill="url(#bg)"/>
+    <rect width="1600" height="590" fill="url(#grid)"/>
+    <circle cx="1340" cy="130" r="450" fill="url(#aurora)"/>
+    <circle cx="190" cy="610" r="440" fill="url(#aqua)"/>
+    <g opacity=".4" fill="none" stroke="url(#neon)">
+      <circle cx="1308" cy="275" r="260" stroke-width="1.4"/>
+      <circle cx="1308" cy="275" r="330" stroke-width=".8" stroke-dasharray="5 15"/>
+      <path d="M 845 0 L 1142 296 L 1500 296" stroke-opacity=".24"/>
+      <path d="M 900 590 L 1225 265 L 1600 265" stroke-opacity=".25"/>
+      <path d="M 0 489 L 215 489 L 275 429" stroke-opacity=".30"/>
+    </g>
+    <g fill="#66E7FA">
+      <circle cx="1114" cy="84" r="4"/><circle cx="1485" cy="452" r="5"/>
+      <circle cx="1257" cy="22" r="3"/><circle cx="1580" cy="210" r="4"/>
+    </g>
+    <g font-family="DejaVu Sans, Arial, sans-serif">
+      <rect x="86" y="66" width="514" height="44" rx="22" fill="#172D49" stroke="#477B9E" stroke-opacity=".65"/>
+      <circle cx="111" cy="88" r="6" fill="#5CE8E1"/>
+      <text x="132" y="95" fill="#B5DCF5" font-size="17" font-weight="700" letter-spacing="2">ENGINEERING  /  AI  /  AUTOMATION</text>
+      <text x="80" y="245" fill="#F7FBFF" font-size="112" font-weight="800" letter-spacing="5">ALI</text>
+      <text x="79" y="362" fill="#F7FBFF" font-size="112" font-weight="800" letter-spacing="3">KHALED</text>
+      <rect x="86" y="387" width="570" height="7" rx="3.5" fill="url(#neon)"/>
+      <text x="86" y="448" fill="#DBE8FB" font-size="31" font-weight="600">Full-Stack Developer &amp; Systems Engineer</text>
+      <text x="86" y="492" fill="#A4B5D0" font-size="22">19+ years building ideas into reliable software.</text>
+      <g transform="translate(86,528)">
+        <rect width="132" height="36" rx="18" fill="#14344D" stroke="#447C9C"/>
+        <text x="66" y="24" text-anchor="middle" fill="#79EAF4" font-size="16" font-weight="700">BUILD</text>
+        <rect x="147" width="155" height="36" rx="18" fill="#21264F" stroke="#6363A0"/>
+        <text x="224" y="24" text-anchor="middle" fill="#B2B5FE" font-size="16" font-weight="700">INTEGRATE</text>
+        <rect x="317" width="156" height="36" rx="18" fill="#36224E" stroke="#835EA6"/>
+        <text x="395" y="24" text-anchor="middle" fill="#DEA5FF" font-size="16" font-weight="700">AUTOMATE</text>
+      </g>
+    </g>
+    <g filter="url(#shadow)">
+      <rect x="905" y="112" width="604" height="366" rx="20" fill="#091122" stroke="#4E638E" stroke-opacity=".78" stroke-width="2"/>
+      <path d="M925 112 H1489 Q1509 112 1509 132 V161 H905 V132 Q905 112 925 112" fill="#192442"/>
+    </g>
+    <g font-family="DejaVu Sans Mono, Consolas, monospace">
+      <circle cx="935" cy="137" r="7" fill="#FF6B81"/>
+      <circle cx="960" cy="137" r="7" fill="#FFC96B"/>
+      <circle cx="985" cy="137" r="7" fill="#5DE0AC"/>
+      <text x="1196" y="144" text-anchor="middle" fill="#8E9EB9" font-size="15">~/ali/profile</text>
+      <text x="936" y="202" fill="#67E5EE" font-size="22">➜</text>
+      <text x="974" y="202" fill="#EEF7FE" font-size="21">whoami</text>
+      <text x="937" y="248" fill="#A78BFA" font-size="20">name</text>
+      <text x="1004" y="248" fill="#8093B0" font-size="20">:</text>
+      <text x="1033" y="248" fill="#E8F3FF" font-size="20">"Ali Khaled"</text>
+      <text x="937" y="292" fill="#A78BFA" font-size="20">focus</text>
+      <text x="1014" y="292" fill="#8093B0" font-size="20">:</text>
+      <text x="1043" y="292" fill="#9CEBCB" font-size="20">["apps", "AI", "APIs"]</text>
+      <text x="937" y="336" fill="#A78BFA" font-size="20">platforms</text>
+      <text x="1066" y="336" fill="#8093B0" font-size="20">:</text>
+      <text x="1095" y="336" fill="#9CEBCB" font-size="20">["iOS", "Windows", "Linux"]</text>
+      <text x="937" y="380" fill="#A78BFA" font-size="20">mindset</text>
+      <text x="1028" y="380" fill="#8093B0" font-size="20">:</text>
+      <text x="1057" y="380" fill="#F3CF87" font-size="20">"keep building"</text>
+      <text x="937" y="432" fill="#60E2ED" font-size="20">➜</text>
+      <rect x="973" y="414" width="13" height="24" rx="2" fill="#69E5F2"/>
+    </g>
+    <rect x="0" y="586" width="1600" height="4" fill="url(#neon)"/>
+  </g>
+</svg>
